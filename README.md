@@ -24,3 +24,16 @@ For all support questions, ask in our customer support chat in [Discord](https:/
 * You can add as many jobs as you want to be displayed on the scoreboard
 * You can set the distance also in the config of how far you want to see player IDS to be seen
 * It triggers an animation when someone is view player ID's
+
+
+### Video Demonstration
+https://streamable.com/070dxi
+
+![image](https://i.imgur.com/W640Xm6.png)
+![image](https://i.imgur.com/kYeMTI2.png)
+![image](https://i.imgur.com/Yst8Fs0.png)
+![image](https://i.imgur.com/MUsqizo.png)
+![image](https://i.imgur.com/CtDdKed.png)
+![image](https://i.imgur.com/5VFJ9Bd.png)
+![image](https://i.imgur.com/KNdrLCL.png)
+![image](https://i.imgur.com/Y5n6EWx.png)
