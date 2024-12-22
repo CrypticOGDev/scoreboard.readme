@@ -2,6 +2,9 @@
 
 For all support questions, ask in our customer support chat in [Discord](https://www.discord.gg/Wv98UTdeTJ).
 
+## Purchase the Script
+- [Tebex](https://sasr.tebex.io/package/6120777)
+
 ## Dependcies:
 - [Qbox](https://github.com/Qbox-project/qbx_core)
 - [ox_lib](https://github.com/overextended/ox_lib)
